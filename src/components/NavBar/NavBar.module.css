@@ -117,6 +117,7 @@
         display: block;
         border: none;
         background: none;
+        cursor: pointer;
     }
 
     .iconmenu{
@@ -124,7 +125,6 @@
         justify-content: end;
         align-items: center;
         width: 50%;
-        cursor: pointer;
     }
 
     .btniconmenu{
