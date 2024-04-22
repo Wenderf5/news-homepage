@@ -124,12 +124,14 @@
         justify-content: end;
         align-items: center;
         width: 50%;
+        cursor: pointer;
     }
 
     .btniconmenu{
         border: none;
         background: none;
         display: block;
+        cursor: pointer;
     }
 
 }
