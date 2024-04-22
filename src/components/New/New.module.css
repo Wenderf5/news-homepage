@@ -1,0 +1,22 @@
+.k2732{
+    color: white;
+    cursor: pointer;
+}
+
+.k2732:hover{
+    color: #eeae58;
+}
+
+.k2313{
+    color: #787681;
+}
+
+@media (min-width: 769px) and (max-width: 900px){
+    .k2732{
+        font-size: 0.8rem;
+    }
+
+    .k2313{
+        font-size: 0.8rem;
+    }
+}
